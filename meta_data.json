@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "location",
+        "2": "productivity",
+        "3": "social network",
+        "4": "analytics"
+    },
+    "demo_page": "https://consultacnpjws.bubbleapps.io/",
+    "description": "Plugin que faz a consulta completa do CNPJ com as informações da Receita Federal. \n\nAPI - ReceitaWS",
+    "image": "//s3.amazonaws.com/appforest_uf/f1602683187832x513554142782129100/irpf.jpg",
+    "license": "open_source",
+    "link": "https://www.receitaws.com.br/v1/cnpj/",
+    "name": "Consulta CNPJ - ReceitaWS",
+    "plugin_instructions": "Digite o CNPJ para buscar"
+}

@@ -1,0 +1,33 @@
+{
+    "calls": {
+        "AAF": {
+            "initialized": true,
+            "method": "get",
+            "name": "API Call",
+            "publish_as": "data",
+            "rank": 0,
+            "ret_value": "api.1602683113110x702948442872479700.plugin_api.AAF",
+            "should_reinitialize": false,
+            "types": "{\"plugin_api.AAF\":{\"caption\":\"API Call\",\"fields\":{\"_p_atividade_principal\":{\"ret_value\":\"list.api.1602683113110x702948442872479700.plugin_api.AAF.atividade_principal\",\"caption\":\"atividade_principal\",\"path\":[\"atividade_principal\"]},\"_p_data_situacao\":{\"ret_value\":\"date\",\"caption\":\"data_situacao\",\"sample_value\":\"03/11/2005\",\"path\":[\"data_situacao\"]},\"_p_tipo\":{\"ret_value\":\"text\",\"caption\":\"tipo\",\"sample_value\":\"MATRIZ\",\"path\":[\"tipo\"]},\"_p_nome\":{\"ret_value\":\"text\",\"caption\":\"nome\",\"sample_value\":\"GLOBO COMUNICACAO E PARTICIPACOES S/A\",\"path\":[\"nome\"]},\"_p_uf\":{\"ret_value\":\"text\",\"caption\":\"uf\",\"sample_value\":\"RJ\",\"path\":[\"uf\"]},\"_p_telefone\":{\"ret_value\":\"text\",\"caption\":\"telefone\",\"sample_value\":\"(21) 2155-4551/ (21) 2155-4552\",\"path\":[\"telefone\"]},\"_p_atividades_secundarias\":{\"ret_value\":\"list.api.1602683113110x702948442872479700.plugin_api.AAF.atividades_secundarias\",\"caption\":\"atividades_secundarias\",\"path\":[\"atividades_secundarias\"]},\"_p_qsa\":{\"ret_value\":\"list.api.1602683113110x702948442872479700.plugin_api.AAF.qsa\",\"caption\":\"qsa\",\"path\":[\"qsa\"]},\"_p_situacao\":{\"ret_value\":\"text\",\"caption\":\"situacao\",\"sample_value\":\"ATIVA\",\"path\":[\"situacao\"]},\"_p_bairro\":{\"ret_value\":\"text\",\"caption\":\"bairro\",\"sample_value\":\"JARDIM BOTANICO\",\"path\":[\"bairro\"]},\"_p_logradouro\":{\"ret_value\":\"text\",\"caption\":\"logradouro\",\"sample_value\":\"R LOPES QUINTAS\",\"path\":[\"logradouro\"]},\"_p_numero\":{\"ret_value\":\"text\",\"caption\":\"numero\",\"sample_value\":\"303\",\"path\":[\"numero\"]},\"_p_cep\":{\"ret_value\":\"text\",\"caption\":\"cep\",\"sample_value\":\"22.460-901\",\"path\":[\"cep\"]},\"_p_municipio\":{\"ret_value\":\"text\",\"caption\":\"municipio\",\"sample_value\":\"RIO DE JANEIRO\",\"path\":[\"municipio\"]},\"_p_porte\":{\"ret_value\":\"text\",\"caption\":\"porte\",\"sample_value\":\"DEMAIS\",\"path\":[\"porte\"]},\"_p_abertura\":{\"ret_value\":\"date\",\"caption\":\"abertura\",\"sample_value\":\"31/01/1986\",\"path\":[\"abertura\"]},\"_p_natureza_juridica\":{\"ret_value\":\"text\",\"caption\":\"natureza_juridica\",\"sample_value\":\"205-4 - Sociedade Anônima Fechada\",\"path\":[\"natureza_juridica\"]},\"_p_fantasia\":{\"ret_value\":\"text\",\"caption\":\"fantasia\",\"sample_value\":\"TV/REDE/CANAIS/G2C+GLOBO SOMLIVRE GLOBO.COM GLOBOPLAY\",\"path\":[\"fantasia\"]},\"_p_cnpj\":{\"ret_value\":\"text\",\"caption\":\"cnpj\",\"sample_value\":\"27.865.757/0001-02\",\"path\":[\"cnpj\"]},\"_p_ultima_atualizacao\":{\"ret_value\":\"date\",\"caption\":\"ultima_atualizacao\",\"sample_value\":\"2020-11-07T06:00:12.094Z\",\"path\":[\"ultima_atualizacao\"]},\"_p_status\":{\"ret_value\":\"text\",\"caption\":\"status\",\"sample_value\":\"OK\",\"path\":[\"status\"]},\"_p_complemento\":{\"ret_value\":\"text\",\"caption\":\"complemento\",\"sample_value\":\"\",\"path\":[\"complemento\"]},\"_p_email\":{\"ret_value\":\"text\",\"caption\":\"email\",\"sample_value\":\"\",\"path\":[\"email\"]},\"_p_efr\":{\"ret_value\":\"text\",\"caption\":\"efr\",\"sample_value\":\"\",\"path\":[\"efr\"]},\"_p_motivo_situacao\":{\"ret_value\":\"text\",\"caption\":\"motivo_situacao\",\"sample_value\":\"\",\"path\":[\"motivo_situacao\"]},\"_p_situacao_especial\":{\"ret_value\":\"text\",\"caption\":\"situacao_especial\",\"sample_value\":\"\",\"path\":[\"situacao_especial\"]},\"_p_data_situacao_especial\":{\"ret_value\":\"text\",\"caption\":\"data_situacao_especial\",\"sample_value\":\"\",\"path\":[\"data_situacao_especial\"]},\"_p_capital_social\":{\"ret_value\":\"text\",\"caption\":\"capital_social\",\"sample_value\":\"6983568523.86\",\"path\":[\"capital_social\"]},\"_p_billing.free\":{\"ret_value\":\"boolean\",\"caption\":\"billing free\",\"sample_value\":true,\"path\":[\"billing\",\"free\"]},\"_p_billing.database\":{\"ret_value\":\"boolean\",\"caption\":\"billing database\",\"sample_value\":true,\"path\":[\"billing\",\"database\"]}}},\"plugin_api.AAF.atividade_principal\":{\"caption\":\"API Call atividade_principal\",\"fields\":{\"_p_text\":{\"ret_value\":\"text\",\"caption\":\"text\",\"sample_value\":\"Atividades de televisão aberta\",\"path\":[\"text\"]},\"_p_code\":{\"ret_value\":\"text\",\"caption\":\"code\",\"sample_value\":\"60.21-7-00\",\"path\":[\"code\"]}}},\"plugin_api.AAF.atividades_secundarias\":{\"caption\":\"API Call atividades_secundaria\",\"fields\":{\"_p_text\":{\"ret_value\":\"text\",\"caption\":\"text\",\"sample_value\":\"Produção de filmes para publicidade\",\"path\":[\"text\"]},\"_p_code\":{\"ret_value\":\"text\",\"caption\":\"code\",\"sample_value\":\"59.11-1-02\",\"path\":[\"code\"]}}},\"plugin_api.AAF.qsa\":{\"caption\":\"API Call qsa\",\"fields\":{\"_p_qual\":{\"ret_value\":\"text\",\"caption\":\"qual\",\"sample_value\":\"10-Diretor\",\"path\":[\"qual\"]},\"_p_nome\":{\"ret_value\":\"text\",\"caption\":\"nome\",\"sample_value\":\"CARLOS HENRIQUE SCHRODER\",\"path\":[\"nome\"]}}}}",
+            "url": "https://www.receitaws.com.br/v1/cnpj/[cnpj]",
+            "url_params": {
+                "AAG": {
+                    "doc": "Adicione o CNPJ desejado para consultar",
+                    "key": "cnpj",
+                    "private": true,
+                    "value": "27865757000102",
+                    "visibility": "public"
+                }
+            }
+        }
+    },
+    "human": "Busca CNPJ",
+    "shared_headers": {
+        "AAD": {
+            "doc": "",
+            "key": "",
+            "private": true,
+            "visibility": "secret"
+        }
+    }
+}
